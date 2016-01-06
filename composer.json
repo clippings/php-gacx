@@ -1,0 +1,17 @@
+{
+    "name": "clippings/php-gacx",
+    "type": "library",
+    "description": "Server-side GA Content Experiments",
+    "homepage": "https://github.com/thomasbachem/php-gacx",
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Thomas Bachem",
+            "email": "mail@thomasbachem.com",
+            "homepage": "http://thomasbachem.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "UnitedPrototype\\" : "src/" }
+    }
+}
